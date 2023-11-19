@@ -1,12 +1,6 @@
 #![no_std]
 #![no_main]
 
-/**  RUSTY ROBOT ROVER
-https://wronganswer.blog/rustcar/
-
-TODO
-
-*/
 use arduino_hal::hal::port::{PB3, PB4};
 use arduino_hal::pac::TC1;
 use arduino_hal::port::mode::{Floating, Input, Output};

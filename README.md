@@ -14,4 +14,6 @@ Obsticle avoiding robot (WIP)
 ## Documentation used
 
 * https://github.com/Dajamante/avr-car/blob/master/src/sensor.rs#L19
+* https://wronganswer.blog/rustcar/
+
 
